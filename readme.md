@@ -8,7 +8,7 @@ This project is a quick start for NodeJs web applications with the following dep
 * Nodemon
 
 ## Installation 
-git clone https://github.com/JohnnyKapps/ExpressJsBaseProject.git
-cd ExpressJsBaseProject
-npm install
-npm start
+* git clone https://github.com/JohnnyKapps/ExpressJsBaseProject.git
+* cd ExpressJsBaseProject
+* npm install
+* npm start
